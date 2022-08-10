@@ -30,6 +30,7 @@ Godot
 Unity
 
 ### Productivity
+Anki
 
 Joplin
 
@@ -37,8 +38,16 @@ Flameshot
 
 ### Video
 mpv
+
 ### Image
+krita
 
 ### Other
+Cryptomator
+
+Wireguard
+
+qBittorrent
+
 X-Bar
 

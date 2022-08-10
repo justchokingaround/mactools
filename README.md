@@ -35,6 +35,10 @@ Joplin
 
 Flameshot
 
+### Video
+mpv
+### Image
+
 ### Other
 X-Bar
 

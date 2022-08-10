@@ -35,3 +35,6 @@ Joplin
 
 Flameshot
 
+### Other
+X-Bar
+

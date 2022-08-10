@@ -23,6 +23,10 @@ Serenade
 
 Warp
 
+Godot
+
+Unity
+
 ### Productivity
 
 Joplin

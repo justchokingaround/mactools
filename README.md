@@ -3,6 +3,8 @@
 Unarchiver
 
 ### Network
+Lulu (Firewall)
+
 Librewolf
 
 Firefoxt trunk (nightly)

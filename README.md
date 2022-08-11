@@ -36,6 +36,8 @@ Joplin
 
 Flameshot
 
+Raycast
+
 ### Video
 mpv
 

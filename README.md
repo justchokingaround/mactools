@@ -5,6 +5,8 @@ Unarchiver
 ### Network
 Lulu (Firewall)
 
+Wireguard
+
 Librewolf
 
 Firefoxt trunk (nightly)
@@ -52,8 +54,6 @@ diffusionbee
 
 ### Other
 Cryptomator
-
-Wireguard
 
 qBittorrent
 

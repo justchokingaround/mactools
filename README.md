@@ -27,8 +27,6 @@ Discordo
 ### Developer
 Neovim
 
-Serenade
-
 Warp
 
 Godot

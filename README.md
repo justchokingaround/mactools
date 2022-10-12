@@ -44,6 +44,8 @@ Flameshot
 
 Raycast
 
+Collabora Office
+
 ### Video
 mpv
 

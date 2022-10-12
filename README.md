@@ -18,6 +18,8 @@ Element
 
 Syphon
 
+Discordo
+
 ### Developer
 Neovim
 
@@ -32,7 +34,9 @@ Unity
 ### Productivity
 Anki
 
-Joplin
+MonitorControl
+
+Notable
 
 Flameshot
 
@@ -43,6 +47,7 @@ mpv
 
 ### Image
 krita
+diffusionbee
 
 ### Other
 Cryptomator

@@ -47,10 +47,18 @@ Collabora Office
 ### Video
 mpv
 
+ffmpeg
+
+lobster
+
+ani-cli
+
 ### Image
 krita
 
 diffusionbee
+
+manga-g
 
 ### Other
 Cryptomator

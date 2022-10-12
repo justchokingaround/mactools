@@ -36,6 +36,8 @@ Unity
 ### Productivity
 Anki
 
+Calibre
+
 Notable
 
 Flameshot

@@ -12,6 +12,8 @@ Librewolf
 Firefoxt trunk (nightly)
 
 ### Hardware
+MonitorControl
+
 MacsFansControl
 
 ### Communication
@@ -35,8 +37,6 @@ Unity
 
 ### Productivity
 Anki
-
-MonitorControl
 
 Notable
 

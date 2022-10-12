@@ -47,6 +47,7 @@ mpv
 
 ### Image
 krita
+
 diffusionbee
 
 ### Other

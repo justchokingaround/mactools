@@ -25,6 +25,8 @@ Syphon
 Discordo
 
 ### Developer
+Homebrew 
+
 Neovim
 
 Warp
@@ -34,6 +36,8 @@ Godot
 Unity
 
 ### Productivity
+Brewlet
+
 Anki
 
 Calibre
